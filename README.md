@@ -2,6 +2,8 @@
 
 Student: Ostanin Mike.
 
+Description of data in the report.
+
 ## Files Description
 
 data_fusion_Mean_std - simple data fusion by the Mean and standard deviation calculation
@@ -9,4 +11,4 @@ data_fusion_Mean_std - simple data fusion by the Mean and standard deviation cal
 KF1 - kalman filter for variable separately
 KF2 - Kalman filter complex for 3 variable and 3 sensors
 
-EKF - Extended?? Kalman ??filter
+EKF - Extended Kalman filter
